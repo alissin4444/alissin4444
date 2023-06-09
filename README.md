@@ -20,4 +20,5 @@ Currently working on big Agrobusiness projects for Brain Agriculture and Serasa 
 - Farmcheck;
 - Smart ESG;
 - Farmer ID;
-- Sensoriamento Remoto.
+- Sensoriamento Remoto;
+- Cooper Money Financial Game.
