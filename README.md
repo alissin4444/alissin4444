@@ -1,4 +1,4 @@
-I'm a Frontend Software Enginner III currently working at Brain Agriculture/Serasa Experian, developing scalable and profissional Agrobusiness apps and at Abstraction Team developing Cooper Money Financial Game on my pair time.
+I'm a Senior NodeJS ReactJS currently working at Brain Agriculture and Serasa Experian, developing scalable and profissional Agrobusiness apps and at Abstraction Team developing Cooper Money Financial Game on my pair time.
 
 I'm fluent and with a strong knowledge on Javascript, Typescript, React JS, React Native, Next JS, Redux, Context API, Tailwind CSS, Material UI, Chakra UI, ANTD, Bootstrap, Styled Components and so on!
 
@@ -10,15 +10,14 @@ My last projects were:
 - Medical dashboard called ZHealth;
 - Real time live streaming and sale tickets called Live Camarote;
 - Town hall and universities apps;
-- Financial game called Cooper Money.
-
-Currently working on big Agrobusiness projects for Brain Agriculture/Serasa Experian, like:
-- Farmer ID;
-- Farmcheck;
-- ESG Indirect Analysis;
-- Remote Sensing;
 - Agribureal;
-- Socioambiental dashboards;
-- Credit Market Place for farmers.
+- Credit Market Place for farmers;
+- ESG Indirect Analysis;
+- Farmer Contracts;
+- Brain Ag Platform Accounts Admin Panel.
 
-With a lot of internal work for companies and study, for me!
+Currently working on big Agrobusiness projects for Brain Agriculture and Serasa Experian, like:
+- Farmcheck;
+- Smart ESG;
+- Farmer ID;
+- Sensoriamento Remoto.
