@@ -16,7 +16,7 @@ My last projects were:
 - Farmer Contracts;
 - Brain Ag Platform Accounts Admin Panel.
 
-Currently working on big Agrobusiness projects for Brain Agriculture and Serasa Experian, like:
+Currently working on big enterprise projects, like:
 - Farmcheck;
 - Smart ESG;
 - Farmer ID;
