@@ -1,24 +1,27 @@
-I'm a Senior NodeJS ReactJS currently working at Brain Agriculture and Serasa Experian, developing scalable and profissional Agrobusiness apps and at Abstraction Team developing Cooper Money Financial Game on my pair time.
+💻 7 Anos+ NodeJS ReactJS Typescript Javascript Full stack Senior 💻
+Sou um engenheiro de software fullstack que trabalha na Brain Agriculture e na Serasa Experian, desenvolvendo aplicativos escaláveis e profissionais para o agronegócio. Também trabalhei como freelancer na equipe de Abstraction, desenvolvendo o jogo Cooper Money, um simulador financeiro educativo. 
 
-I'm fluent and with a strong knowledge on Javascript, Typescript, React JS, React Native, Next JS, Redux, Context API, Tailwind CSS, Material UI, Chakra UI, ANTD, Bootstrap, Styled Components and so on!
+Tenho uma forte experiência e conhecimento em Javascript, Typescript, React, React Native, Next, Redux, Context API, e vários frameworks e bibliotecas de UI, como Tailwind, Material, Chakra, ANTD, Bootstrap, e Styled Components. 
 
-I can learn very fast and my communication, team work, pro activity, focus, presence, clear mind, logical skills, problemn solving, creativity, analysis and a lot of other one soft skills are exceptional.
+Aprendo muito rápido e tenho excelentes habilidades de comunicação, trabalho em equipe, proatividade, foco, presença, lógica, resolução de problemas, criatividade e análise. 
 
-I have worked with Node JS backends as well, using Express JS, Adonis JS, Nest JS and ORMs, like TypeORM, Lucid, Sequelize, Prisma, Mongoose and others one!
+Também tenho experiência com backends em Node, usando Express, Adonis, Nest, e ORMs, como TypeORM, Lucid, Sequelize, Prisma, Mongoose e outros. . 
 
-My last projects were: 
-- Medical dashboard called ZHealth;
-- Real time live streaming and sale tickets called Live Camarote;
-- Town hall and universities apps;
-- Agribureal;
-- Credit Market Place for farmers;
-- ESG Indirect Analysis;
-- Farmer Contracts;
-- Brain Ag Platform Accounts Admin Panel.
+Alguns dos meus projetos recentes foram: 
 
-Currently working on big enterprise projects, like:
-- Farmcheck;
-- Smart ESG;
-- Farmer ID;
-- Sensoriamento Remoto;
-- Cooper Money Financial Game.
+- ZHealth, uma plataforma de gestão médica;
+- Live Camarote, um serviço de transmissão ao vivo e venda de ingressos;
+Aplicativos para prefeituras e universidades; 
+- Agribureal, um marketplace de crédito para agricultores; 
+- ESG Indirect Analysis, uma ferramenta de análise de impacto ambiental, social e de governança; 
+- Farmer Contracts, um sistema de gestão de contratos agrícolas;
+- Brain Ag Platform Accounts Admin Panel, um painel de administração de contas da plataforma Brain Ag. 
+- Farmer ID, uma identidade digital para agricultores;
+- Smart ESG, uma plataforma de gestão de sustentabilidade;
+
+Atualmente, estou trabalhando em grandes produtos corporativos, como: 
+- SCR, Sistema de Informações de Créditos do Banco Central
+ 
+Meu objetivo é continuar aprimorando minhas habilidades técnicas e de negócios, e contribuir para o desenvolvimento de soluções inovadoras e de alto impacto para os setores de agro. Sou apaixonado por tecnologia, aprendizado e desafios, e busco sempre entregar valor e qualidade para os meus clientes, parceiros e colegas.
+
+💻 7 Anos+ NodeJS ReactJS Typescript Javascript Full stack Senior 💻
