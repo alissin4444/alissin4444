@@ -1,4 +1,4 @@
-💻 7 Anos+ NodeJS ReactJS Typescript Javascript Full stack Senior 💻
+💻 5 Anos+ NodeJS ReactJS Typescript Javascript Full stack 💻
 Sou um engenheiro de software fullstack que trabalha na Brain Agriculture e na Serasa Experian, desenvolvendo aplicativos escaláveis e profissionais para o agronegócio. Também trabalhei como freelancer na equipe de Abstraction, desenvolvendo o jogo Cooper Money, um simulador financeiro educativo. 
 
 Tenho uma forte experiência e conhecimento em Javascript, Typescript, React, React Native, Next, Redux, Context API, e vários frameworks e bibliotecas de UI, como Tailwind, Material, Chakra, ANTD, Bootstrap, e Styled Components. 
@@ -24,4 +24,4 @@ Atualmente, estou trabalhando em grandes produtos corporativos, como:
  
 Meu objetivo é continuar aprimorando minhas habilidades técnicas e de negócios, e contribuir para o desenvolvimento de soluções inovadoras e de alto impacto para os setores de agro. Sou apaixonado por tecnologia, aprendizado e desafios, e busco sempre entregar valor e qualidade para os meus clientes, parceiros e colegas.
 
-💻 7 Anos+ NodeJS ReactJS Typescript Javascript Full stack Senior 💻
+💻 5 Anos+ NodeJS ReactJS Typescript Javascript Full stack 💻
