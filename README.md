@@ -1,8 +1,9 @@
 
-
+<center>
 <p float="left">
-  <img src="https://i.imgur.com/7V4mBoM.png"/>
+  <img src="https://i.imgur.com/VLckSPm.png"/>
 </p>
+</center>
 
 💻 6 Anos+ NodeJS ReactJS Angular Typescript Javascript Full stack Developer 💻
 
